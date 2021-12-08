@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umakant Yadav
 - 👀 I’m interested in Data Science and machine learning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Big Data
 - 💞️ I’m looking to collaborate on Data Science Project
 - 📫 You Can   reach me umakant65.aims@gmail.com
 
